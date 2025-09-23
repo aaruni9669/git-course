@@ -1,0 +1,2 @@
+Admins will be able to add users
+Admins will be able to remove users
